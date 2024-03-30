@@ -1,5 +1,7 @@
 # Picture modification API
 
+Express | TypeScript | Sharp | Jasmine | Supertest | Eslint | Prettier 
+
 Picture modification API that resizes and saves pictures to user specific folder when visiting URL.
 
 ## Instructions
@@ -9,8 +11,6 @@ Picture modification API that resizes and saves pictures to user specific folder
 ```bash
   npm install
 ```
-
-The dependencies include Express, TypeScript, Sharp, Jasmine, Supertest, Eslint, Prettier. 
 
 #### 2. Now you can **use the following scripts**:
 
