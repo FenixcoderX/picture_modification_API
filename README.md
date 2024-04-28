@@ -1,6 +1,6 @@
 # Picture modification API
 
-Express | TypeScript | Sharp | Jasmine | Supertest | Eslint | Prettier 
+TypeScript | Node.js | Express | Sharp | Jasmine | Supertest | Eslint | Prettier 
 
 Picture modification API that resizes and saves pictures to user specific folder when visiting URL.
 
